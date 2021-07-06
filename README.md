@@ -7,4 +7,4 @@
 - 1.Download repo
 - 2.Unpack
 - 3.Ensure you have pygame library (pip install pygame)
-- 4.Run python3 game
+- 4.Double click on run.bat
